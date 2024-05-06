@@ -1,0 +1,30 @@
+body {
+  font-family: monospace;
+}
+.flex {
+  display: flex;
+  flex: 1;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: center;
+}
+h1 {
+  color: #a0f;
+  font-size: 3rem;
+  text-align: center;
+}
+h2 {
+  color: #0cf;
+}
+h3 {
+  color: #f0a;
+}
+img {
+  max-width: 100px;
+}
+label {
+  display: block;
+}
+input {
+  margin-top: 0.5rem;
+}
